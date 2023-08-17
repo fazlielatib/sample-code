@@ -1,6 +1,6 @@
 ---
 title: "Cyclistic Case Study"
-author: 'Author: Fazlie Latib'
+author: 'Fazlie Latib'
 output: html_notebook
 ---
 
