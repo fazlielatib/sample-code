@@ -5,6 +5,6 @@ For two of the codes (Lab 2 and 3) under geophysical computational method, I col
 
 For physical properties of rock class, the completion of assignments can just be done using Excel, however, I want to try and test my coding skills in Python, hence, I try to complete specific questions from assignments using Python through Jupyter Notebook.
 
-For Google Data Analytics Certificate, I use R to process and clean the data as well as the visualizations.
+For Google Data Analytics Certificate, I utilized R to process and clean the data as well as the visualizations.
 
 For gravity & magnetics and geophysics signal processing, I mainly use MATLAB to complete the lab assignments.
